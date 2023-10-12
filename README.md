@@ -44,7 +44,7 @@
 <br>
 
 
-## 🌱 Technology <a id="technology"> </a>
+## 🌱 Languages <a id="language"> </a>
 
 <br>
 
