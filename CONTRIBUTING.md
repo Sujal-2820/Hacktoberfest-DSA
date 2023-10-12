@@ -2,7 +2,7 @@
 
 # Hacktoberfest Summary
 
-Hacktoberfest is an event on GitHub or GitLab that encourages everyone to participate in open source software development.  You are tasked with making **4 or more pull requests** during the month of October.  If your pull requests are accepted, then you win digital badges.  It's a chance to learn more about git, GitHub or GitLab, and in the case of this project, more about **web development, JavaScript, HTML, and CSS**.
+Hacktoberfest is an event on GitHub or GitLab that encourages everyone to participate in open source software development.  You are tasked with making **4 or more pull requests** during the month of October.  If your pull requests are accepted, then you win digital badges.  It's a chance to learn more about git, GitHub or GitLab, and in the case of this repository, more about **Data Structures & Algorithms, C++, Java, Python etc.**.
 
 For more info:  [hacktoberfest.com](https://hacktoberfest.com/)
 
