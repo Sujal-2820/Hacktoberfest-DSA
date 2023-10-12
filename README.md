@@ -1,5 +1,5 @@
 
-<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hacktoberfest-Web ⚡</h1>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hacktoberfest-DSA ⚡</h1>
 <br>
 <p align="center"><code>A Repository containing DSA solutions for new contributors</code></p>
 <br>
